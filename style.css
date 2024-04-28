@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #414141;
+}
+
+.btnsBox {
+    position: absolute;
+    padding: 4px;
+    top: 20px;
+    left: 440px;
+    margin: 4px;
+    margin-top: 30px;
+    background-color: #CBCBCB;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#inpCalcu {
+    border-radius: 8px;
+    border: none;
+    background-color: #FFFFFF;
+    margin-top: 8px;
+    width: 318px;
+    outline: none;
+    height: 40px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    height: 50px;
+}
+
+.btns {
+    height: 70px;
+    margin: 4px;
+    width: 70px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 7px;
+    border: 2px solid #929292;
+}
+.btns:hover{
+    background-color: #c2c0c0;
+}
+#btn-addition,#btn-subtarct,#btn-X,#btn-equal,#btn-divide{
+    color: white;
+background-color: #2D2E2D
+}
+#btn-Clear{
+    color: white;
+    background-color: #D20000;
+}
+#btn-Clear:hover {
+    background-color: #ff0707;
+}
+#btn-addition:hover,#btn-subtarct:hover,#btn-X:hover,#btn-equal:hover,#btn-divide:hover{
+    background-color: #161616
+}
+
+#btn-equal{
+    height: 70px;
+    margin: 4px;
+    width: 70px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 7px;
+    border: 2px solid #929292;
+}
+#btn-Clear{ height: 70px;
+margin: 4px;
+width: 70px;
+font-size: 20px;
+font-weight: 800;
+border-radius: 7px;
+border: 2px solid #929292;
+}
